@@ -50,7 +50,7 @@ The project focuses on backend logic, database design, and secure data handling 
 
 ---
 
-## Project Structure
+### Project Structure
 
 form_builder_system/
 ├── admin/
@@ -59,7 +59,7 @@ form_builder_system/
 │   ├── deleteform.php
 │   ├── forms-list.php
 │   └── submissions.php
-├── public/
+├── public/  
 │   ├── form.php
 │   └── submit.php
 ├── config/
