@@ -49,8 +49,9 @@ The project focuses on backend logic, database design, and secure data handling 
 - form_submissions – stores user responses linked to a form ID (JSON)
 
 ---
+## Project Structure
 
-### Project Structure
+```
 form_builder_system/
 ├── admin/
 │   ├── createform.php
@@ -70,6 +71,7 @@ form_builder_system/
 │       └── form-builder.js
 ├── database.sql
 └── README.md
+```
 
 
 ---
