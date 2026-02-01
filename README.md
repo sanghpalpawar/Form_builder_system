@@ -92,13 +92,13 @@ form_builder_system/
 ## How to Run the Project
 
 ### Create Form (Admin)
-http://localhost/form_builder_system/admin/createform.php
+http://localhost/form_builder_system/admin/create-form.php
 
 ### View All Forms
 http://localhost/form_builder_system/admin/forms-list.php
 
 ### Edit Form
-http://localhost/form_builder_system/admin/editform.php?id=FORM_ID
+http://localhost/form_builder_system/admin/edit-form.php?id=FORM_ID
 
 ### Delete Form
 Use the Delete option from the forms list to remove a form.
